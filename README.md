@@ -6,6 +6,7 @@
 - Frontend web development (JavaScript, TypeScript, Angular.js)
 - Databases (SQL Server)
 - Data Structures & Algorithms
+- Software Engineering
 
 ## 📅 Hobbies
 - Solve programming problems at Codeforces, LeetCode
@@ -15,13 +16,14 @@
 - etc...
 
 ## 💻 Current projects
-- Talabat - Side project
-- MultaqaTech - Graduation project
+- Dating App - Full Stack Side project
+- CraftIQ Inventory - .Net Microservices side project
 
 ## 📚 Learning
-- Design Patterns
-- Software design
-- Dynamic Programming
+- Operating Systems
+- Computer Networks
+- Clean Architecture
+- Docker
 
 <!-- <div id = "some_issues">
   <p>It is a little list of problems you can face while implementing this kind of stuff</p>
