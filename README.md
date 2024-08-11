@@ -24,6 +24,7 @@
 - Computer Networks
 - Clean Architecture
 - Docker
+- Distributed Systems
 
 <!-- <div id = "some_issues">
   <p>It is a little list of problems you can face while implementing this kind of stuff</p>
