@@ -2,11 +2,25 @@
 <h3 align="center">A software engineer from Egypt</h3>
 
 ## 💬 Ask me about
-- Backend web development (C#, Entity Framework, ASP.NetCore)
-- Frontend web development (JavaScript, TypeScript, Angular.js)
-- Databases (SQL Server)
+- Backend web development (C#, Entity Framework, ASP.NetCore MVC | Web API)
+- Frontend web development (JavaScript, TypeScript, Angular)
+- Databases (SQL Server | Mongodb)
+- Containers (Docker)
+- Clean Architecture & Design patterns (CQRS  - Specification - UOW - Repository)
 - Data Structures & Algorithms
 - Software Engineering
+- Operating Systems & Computer Networks
+
+## 💻 Current projects
+- E-commerce - Full Stack side project
+- Dating App - Full Stack Side project
+
+## 📚 Learning
+- Microservices
+- RabbitMQ
+- AKS (Kubernetes)
+- Azure (AZ-900 | AZ-204)
+- Azure DevOps | CI/CD Pipelines
 
 ## 📅 Hobbies
 - Solve programming problems at Codeforces, LeetCode
@@ -14,18 +28,6 @@
 - Read about Politics and history
 - Playing Fifa And PES
 - etc...
-
-## 💻 Current projects
-- Dating App - Full Stack Side project
-- CraftIQ Inventory - .Net Microservices side project
-
-## 📚 Learning
-- Operating Systems
-- Computer Networks
-- Clean Architecture
-- Docker
-- Distributed Systems
-
 <!-- <div id = "some_issues">
   <p>It is a little list of problems you can face while implementing this kind of stuff</p>
   <ul id = "problem_list">
