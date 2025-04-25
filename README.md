@@ -19,7 +19,6 @@
 - Microservices
 - RabbitMQ
 - AKS (Kubernetes)
-- Azure (AZ-900 | AZ-204)
 - Azure DevOps | CI/CD Pipelines
 
 ## 📅 Hobbies
