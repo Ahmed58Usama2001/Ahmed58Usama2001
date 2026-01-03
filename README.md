@@ -2,20 +2,18 @@
 <h3 align="center">A software engineer from Egypt</h3>
 
 ## 💬 Ask me about
-- Backend web development (C#, Entity Framework, ASP.NetCore MVC | Web API)
+- Backend web development (C#, Entity Framework, LINQ,  ASP.NetCore MVC | Web API)
 - Frontend web development (JavaScript, TypeScript, Angular)
 - Databases (SQL Server | Mongodb)
 - Containers (Docker)
-- Clean Architecture & Design patterns (CQRS  - Specification - UOW - Repository)
+- Clean Architecture & Design patterns (Onion Architecture - CQRS  - Specification - UOW - Repository)
 - Data Structures & Algorithms
 - Software Engineering
 - Operating Systems & Computer Networks
 
-## 💻 Current projects
-- E-commerce - Full Stack side project
-- Dating App - Full Stack Side project
-
 ## 📚 Learning
+- Database internals
+- Design patterns
 - Microservices
 - RabbitMQ
 - AKS (Kubernetes)
